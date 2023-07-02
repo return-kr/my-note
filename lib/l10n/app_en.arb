@@ -1,0 +1,16 @@
+{
+    "helloWorld": "Hello World!",
+    "appName": "My Notes",
+    "notes": "Notes",
+    "note": "Note",
+    "title": "Title",
+    "editNote": "Edit Note",
+    "createNote": "Create Note",
+    "noNotes": "You have no Notes!\nTap (+) to create one.",
+    "sure": "Sure",
+    "nope": "Nope!",
+    "sureDeleteNote": "Are you sure want to delete this note? (This process cannot be undone)",
+    "sureDeleteAllNotes": "Are you sure want to delete all notes? (This process cannot be undone)",
+    "deleteNotes": "Delete notes?",
+    "deleteNote": "Delete note?"
+}

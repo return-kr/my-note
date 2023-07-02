@@ -1,0 +1,28 @@
+name: my_note
+version: 1.0.0+1
+publish_to: none
+description: A Note application in MVC architecture using GetX.
+environment: 
+  sdk: '>=2.19.5 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter: 
+    sdk: flutter
+  intl: ^0.17.0
+  flutter_localizations:
+    sdk: flutter
+  google_fonts: ^4.0.3
+  realm: ^1.0.3
+  focus_detector: ^2.0.1
+  rxdart: ^0.27.7
+
+dev_dependencies: 
+  flutter_lints: 2.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+  generate: true
